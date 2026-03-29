@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+- 👯 I’m looking to collaborate on **beginner-friendly Python and Web Development projects**.
+- 🤝 I’m looking for help with **mastering Data Structures and Algorithms**.
+- 🌱 I’m currently learning **C++, Python, and the fundamentals of Computer Science at VIT Bhopal**.
+
+
 <!--
 **d3ep4k2022-spec/d3ep4k2022-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
